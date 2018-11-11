@@ -1,3 +1,8 @@
+#intellij
+.idea/
+target/
+*.iml
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -6,7 +11,7 @@ ehthumbs.db
 Desktop.ini
 
 # Recycle Bin used on file shares
-$RECYCLE.BIN/
+$RECYCLE.BIN/§
 
 # Windows Installer files
 *.cab
